@@ -2,4 +2,4 @@
 
 <img width="400" align="right" alt="Weekly Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=s0kil&layout=compact&custom_title=Weekly%20Stats&theme=graywhite&hide_border=true&hide_progress=true&cache_seconds=1800&text_color=586069&title_color=24292e" />
 
-<img width="300" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s0kil&layout=compact&langs_count=10&hide=html,css&theme=graywhite&hide_border=true&cache_seconds=1800&text_color=586069&title_color=24292e" />'
+<img width="300" align="left" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s0kil&layout=compact&langs_count=10&hide=html,css&theme=graywhite&hide_border=true&cache_seconds=1800&text_color=586069&title_color=24292e" />'
