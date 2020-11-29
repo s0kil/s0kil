@@ -1,1 +1,1 @@
-<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s0kil&layout=compact&langs_count=10&hide=html,css&theme=graywhite&hide_border=true&cache_seconds=1800&text_color=586069&title_color=24292e" />
+[![Trophy](https://github-profile-trophy.vercel.app/?username=s0kil&column=10&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
